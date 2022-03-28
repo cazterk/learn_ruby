@@ -9,3 +9,4 @@ Basics of the ruby programming languages to get you started
 - arrays
 - methods
 - conditionals
+- dictionaries
