@@ -10,3 +10,4 @@ Basics of the ruby programming languages to get you started
 - methods
 - conditionals
 - dictionaries
+- loops

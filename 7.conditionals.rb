@@ -1,6 +1,7 @@
 # conditionals 
 
 # if, else, elsif
+
 is_student = false
 is_smart = false
 
@@ -33,3 +34,4 @@ case my_grade
     else
         puts "invalid grade"
 end
+
