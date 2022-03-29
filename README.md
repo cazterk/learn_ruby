@@ -12,3 +12,4 @@ Basics of the ruby programming languages to get you started
 - dictionaries
 - loops
 - exception handling
+- inheritance

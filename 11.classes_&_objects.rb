@@ -8,7 +8,7 @@ class Book
         @author = author
     end
 
-    def readBook()
+    def read_book()
         puts "I am reading #{self.title} by #{self.author}"
     end
 
