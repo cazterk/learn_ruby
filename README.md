@@ -11,3 +11,4 @@ Basics of the ruby programming languages to get you started
 - conditionals
 - dictionaries
 - loops
+- exception handling
